@@ -1,0 +1,1 @@
+const service_flqi = <T>(args: T): T => { return args; };
